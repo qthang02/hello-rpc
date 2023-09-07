@@ -1,4 +1,0 @@
-version: v1
-name: buf.build/qthang02/hello-rpc
-deps:
-  - buf.build/googleapis/googleapis
